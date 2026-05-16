@@ -1,7 +1,7 @@
-# QR Code Generator
+# Dynamic Data-Encoderr
 
 ## Project Overview
-This project is a simple QR Code Generator built 
+This project is a simple Dynamic Data-Encoder built 
 It allows users to input a URL or text and generate a corresponding QR code that can be scanned by any QR code reader.
 
 ## Features
